@@ -39,7 +39,7 @@ The Kolmogorov-Smirnov test (KS test) was used to determine whether key sentimen
 
 ### Quantity of Discussion
 
-![image](https://user-images.githubusercontent.com/55981443/144286163-6875d789-7d54-4458-ab25-8d5e5d42d63b.png?style=centerme)
+![image](https://user-images.githubusercontent.com/55981443/144286687-98aacf77-4fef-4ad8-ac10-9fbad70ac00b.png)
 
 The results suggest that the total number of comments per day during Stabilisation Phase shows a different distribution than during Lockdown and Heightened Alert 1 (p < 0.05). Q-Q plots (D & E) are used to compare the distribution of two samples. By plotting the quantiles of the Stabilisation phase data set against the quantiles of the comparison data sets (D, E), we observe that the total number of comments per day tended to be higher during Stabilisation Phase than during Lockdown and Heightened Alert.
 
